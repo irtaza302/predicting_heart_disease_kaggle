@@ -30,7 +30,6 @@ wheels/
 .ipynb_checkpoints/
 
 # Environment
-.env
 .venv
 env/
 venv/
@@ -38,10 +37,11 @@ ENV/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
 # OS
 .DS_Store
 Thumbs.db
+config.bat
+node_modules
